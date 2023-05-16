@@ -1,0 +1,13 @@
+{
+    "produtos": [
+      {"id": 1, "nome": "AK-15", "categoria": "Fuzis de Batalha", "descricao": "Fuzil de batalha calibre 7,62x39mm", "preco": 7650.00},
+      {"id": 2, "nome": "AK-12", "categoria": "Fuzis de Assalto", "descricao": "Fuzil de assalto calibre 5.45x45mm", "preco": 7550.00},
+      {"id": 3, "nome": "AN-94", "categoria": "Fuzis de Assalto", "descricao": "Fuzil de assalto calibre 5.45x45mm com função de disparo duplo", "preco": 6000.00},
+      {"id": 4, "nome": "RPK-16", "categoria": "Fuzis Automáticos de Esquadrão", "descricao": "Fuzil Automático de Esquadrão calibre 5.45x45mm de alta capacidade", "preco": 8500.00},
+      {"id": 5, "nome": "ST AR-15", "categoria": "Fuzis de Assalto", "descricao": "Fuzil de assalto calibre 5.56x45mm altamente modular", "preco": 4500.00},
+      {"id": 5, "nome": "HK 416", "categoria": "Fuzis de Assalto", "descricao": "Fuzil de assalto calibre 5.56x45mm da plataforma AR-15 fabricado no estrangeiro", "preco": 5000.00},
+      {"id": 6, "nome": "SVD", "categoria": "Fuzis de Precisão", "descricao": "Fuzil de precisão calibre 7.62x54mmR", "preco": 6750.00},
+      {"id": 6, "nome": "PKP Pecheneg", "categoria": "Metralhadoras Leves", "descricao": "Metralhadora leve calibre 7.62x54mmR de alta capacidade", "preco": 8000.00}
+    ]
+  }
+  
